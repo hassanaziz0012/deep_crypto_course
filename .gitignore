@@ -1,0 +1,5 @@
+db.sqlite3
+deep_crypto_course/__pycache__/
+main/__pycache__/
+main/migrations/__pycache__/
+media/
